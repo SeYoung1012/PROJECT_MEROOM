@@ -34,19 +34,19 @@
 
 -메인 화면
 
-![main](https://user-images.githubusercontent.com/87887586/143540958-6ddf2789-5a81-4c57-8c3f-9132f4cd1368.gif){: width="900" height="600"}
+![main](https://user-images.githubusercontent.com/87887586/143540958-6ddf2789-5a81-4c57-8c3f-9132f4cd1368.gif){:width="900px" height="600px"}
 
 -어바웃(오시는 길)
 
-![about](https://user-images.githubusercontent.com/87887586/143541512-5b6998ff-e535-4220-a61a-b028a04f520b.gif){: width="900" height="600"}
+![about](https://user-images.githubusercontent.com/87887586/143541512-5b6998ff-e535-4220-a61a-b028a04f520b.gif){:width="900px" height="600px"}
 
 -일대일 문의(유효성검사)
 
-![fa](https://user-images.githubusercontent.com/87887586/143542069-4e73413e-4bee-47fa-88c5-85a763f893bf.gif){: width="900" height="600"}
+![fa](https://user-images.githubusercontent.com/87887586/143542069-4e73413e-4bee-47fa-88c5-85a763f893bf.gif)
 
 -자주묻는 질문
 
-![quest](https://user-images.githubusercontent.com/87887586/143542928-fe5858d7-399a-4493-89b1-1013ea0ceafa.gif){: width="900" height="600"}
+![quest](https://user-images.githubusercontent.com/87887586/143542928-fe5858d7-399a-4493-89b1-1013ea0ceafa.gif)
 
 
 -뉴스 게시판
