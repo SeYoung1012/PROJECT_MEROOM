@@ -34,11 +34,11 @@
 
 -메인 화면
 
-![main](https://user-images.githubusercontent.com/87887586/143540958-6ddf2789-5a81-4c57-8c3f-9132f4cd1368.gif){:width="900px" height="600px"}
+![main](https://user-images.githubusercontent.com/87887586/143540958-6ddf2789-5a81-4c57-8c3f-9132f4cd1368.gif)
 
 -어바웃(오시는 길)
 
-![about](https://user-images.githubusercontent.com/87887586/143541512-5b6998ff-e535-4220-a61a-b028a04f520b.gif){:width="900px" height="600px"}
+![about](https://user-images.githubusercontent.com/87887586/143541512-5b6998ff-e535-4220-a61a-b028a04f520b.gif)
 
 -일대일 문의(유효성검사)
 
@@ -51,10 +51,8 @@
 
 -뉴스 게시판
 
-![newslist](https://user-images.githubusercontent.com/87887586/143544451-bea743c7-09e2-485d-9a5b-a12ff8871342.png){:width="900px" height="600px"}
-
-![newsdetail](https://user-images.githubusercontent.com/87887586/143544460-987c56b1-d211-4c4f-ac59-2cd6b797834d.png){:width="900px" height="600px"}
-
+![newslist](https://user-images.githubusercontent.com/87887586/143544451-bea743c7-09e2-485d-9a5b-a12ff8871342.png)
+![newsdetail](https://user-images.githubusercontent.com/87887586/143544460-987c56b1-d211-4c4f-ac59-2cd6b797834d.png)
 ![newswrite](https://user-images.githubusercontent.com/87887586/143544467-b9c7e965-0dc1-474d-a98f-b123afa2734c.png)
 
 
