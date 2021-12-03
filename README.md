@@ -33,9 +33,11 @@
 ### 5.실행결과
 
 -메인 화면
+
 <img width="900px" height="600px" src=https://user-images.githubusercontent.com/87887586/143540958-6ddf2789-5a81-4c57-8c3f-9132f4cd1368.gif>
 
 -어바웃(오시는 길)
+
 <img width="900px" height="600px" src=https://user-images.githubusercontent.com/87887586/143541512-5b6998ff-e535-4220-a61a-b028a04f520b.gif>
 
 -일대일 문의(유효성검사)
