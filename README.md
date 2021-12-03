@@ -37,38 +37,38 @@
 
 -어바웃(오시는 길)
 
-![intro](https://user-images.githubusercontent.com/87887586/143541512-5b6998ff-e535-4220-a61a-b028a04f520b.gif")
+![about](https://user-images.githubusercontent.com/87887586/143541512-5b6998ff-e535-4220-a61a-b028a04f520b.gif)
 
 -일대일 문의(유효성검사)
 
-<img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143542069-4e73413e-4bee-47fa-88c5-85a763f893bf.gif>
+![fa](https://user-images.githubusercontent.com/87887586/143542069-4e73413e-4bee-47fa-88c5-85a763f893bf.gif)
 
 -자주묻는 질문
-<img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143542928-fe5858d7-399a-4493-89b1-1013ea0ceafa.gif>
+![quest](https://user-images.githubusercontent.com/87887586/143542928-fe5858d7-399a-4493-89b1-1013ea0ceafa.gif)
 
 
 -뉴스 게시판
 
 ![newslist](https://user-images.githubusercontent.com/87887586/143544451-bea743c7-09e2-485d-9a5b-a12ff8871342.png)
 
-![newsdetail](img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143544460-987c56b1-d211-4c4f-ac59-2cd6b797834d.png)
+![newsdetail](https://user-images.githubusercontent.com/87887586/143544460-987c56b1-d211-4c4f-ac59-2cd6b797834d.png)
 
-![newswrite](img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143544467-b9c7e965-0dc1-474d-a98f-b123afa2734c.png)
+![newswrite](https://user-images.githubusercontent.com/87887586/143544467-b9c7e965-0dc1-474d-a98f-b123afa2734c.png)
 
 
 -이벤트 게시판
 
-![eventlist](img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143544613-fc2a3d86-9c2d-4fd9-b43a-36edcab2da93.png)
+![eventlist](https://user-images.githubusercontent.com/87887586/143544613-fc2a3d86-9c2d-4fd9-b43a-36edcab2da93.png)
 
-![eventdetail](img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143544622-985dbac6-b863-4935-8a0e-f4842695ce7f.png)
+![eventdetail](https://user-images.githubusercontent.com/87887586/143544622-985dbac6-b863-4935-8a0e-f4842695ce7f.png)
 
-![eventwrite](img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143544648-1e967c99-bd3f-4b93-991d-d85770fccfad.png)
+![eventwrite]( https://user-images.githubusercontent.com/87887586/143544648-1e967c99-bd3f-4b93-991d-d85770fccfad.png)
 
 
 -프로모션게시판
 
-![promotionlist](img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143544738-056f39b1-6a3e-4cfa-be46-f07357a1de5c.png)
+![promotionlist](https://user-images.githubusercontent.com/87887586/143544738-056f39b1-6a3e-4cfa-be46-f07357a1de5c.png)
 
-![promotiondetail](img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143544760-47705177-5be6-4968-a94a-b73f746e9bc2.png)
+![promotiondetail](https://user-images.githubusercontent.com/87887586/143544760-47705177-5be6-4968-a94a-b73f746e9bc2.png)
 
-![promotionwrite](img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143544767-74895acb-2251-49b1-800c-a87ae29cfb43.png)
+![promotionwrite](https://user-images.githubusercontent.com/87887586/143544767-74895acb-2251-49b1-800c-a87ae29cfb43.png)
