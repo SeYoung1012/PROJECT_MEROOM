@@ -50,7 +50,7 @@
 
 
 -뉴스 게시판
-
+<img width="900px" height="600px" src=https://user-images.githubusercontent.com/87887586/143544451-bea743c7-09e2-485d-9a5b-a12ff8871342.png>
 ![newslist](https://user-images.githubusercontent.com/87887586/143544451-bea743c7-09e2-485d-9a5b-a12ff8871342.png)
 ![newsdetail](https://user-images.githubusercontent.com/87887586/143544460-987c56b1-d211-4c4f-ac59-2cd6b797834d.png)
 ![newswrite](https://user-images.githubusercontent.com/87887586/143544467-b9c7e965-0dc1-474d-a98f-b123afa2734c.png)
