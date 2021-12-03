@@ -42,11 +42,11 @@
 
 -일대일 문의(유효성검사)
 
-![fa](https://user-images.githubusercontent.com/87887586/143542069-4e73413e-4bee-47fa-88c5-85a763f893bf.gif)
+<img width="900px" height="600px" src=https://user-images.githubusercontent.com/87887586/143542069-4e73413e-4bee-47fa-88c5-85a763f893bf.gif>
 
 -자주묻는 질문
 
-![quest](https://user-images.githubusercontent.com/87887586/143542928-fe5858d7-399a-4493-89b1-1013ea0ceafa.gif)
+<img width="900px" height="600px" src=https://user-images.githubusercontent.com/87887586/143542928-fe5858d7-399a-4493-89b1-1013ea0ceafa.gif>
 
 
 -뉴스 게시판
