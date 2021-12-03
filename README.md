@@ -34,7 +34,7 @@
 
 -메인 화면
 
-<img width:"900px" height: "600px" https://user-images.githubusercontent.com/87887586/143540958-6ddf2789-5a81-4c57-8c3f-9132f4cd1368.gif>
+<img width:"900px" height: "600px" src= "https://user-images.githubusercontent.com/87887586/143540958-6ddf2789-5a81-4c57-8c3f-9132f4cd1368.gif">
 
 -어바웃(오시는 길)
 
