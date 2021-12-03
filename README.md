@@ -33,6 +33,7 @@
 ### 5.실행결과
 
 -메인 화면
+
 ![main](https://user-images.githubusercontent.com/87887586/143540958-6ddf2789-5a81-4c57-8c3f-9132f4cd1368.gif)
 
 -어바웃(오시는 길)
@@ -44,6 +45,7 @@
 ![fa](https://user-images.githubusercontent.com/87887586/143542069-4e73413e-4bee-47fa-88c5-85a763f893bf.gif)
 
 -자주묻는 질문
+
 ![quest](https://user-images.githubusercontent.com/87887586/143542928-fe5858d7-399a-4493-89b1-1013ea0ceafa.gif)
 
 
